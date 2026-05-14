@@ -19,7 +19,7 @@ nav {
     font-weight: bold;
     font-size: 20px;
     z-index: 1000;
- }
+}
 
 .logo {
     display: flex;
@@ -75,7 +75,7 @@ nav {
 
 .hero img {
     width: 100%;
-    height:800px;
+    height: 800px;
 }
 
 /* ================= HERO ================= */
@@ -155,7 +155,7 @@ nav {
     justify-content: center;
 }
 
-.bulatan img{
+.bulatan img {
     padding: 0;
     height: 600px;
     width: 700px;
@@ -163,7 +163,6 @@ nav {
     display: flex;
     justify-content: center;
     border-radius: 50%;
-
 }
 
 .alpukat img {
@@ -176,7 +175,7 @@ nav {
     left: 80px;
 }
 
-.kopi img{
+.kopi img {
     position: relative; 
     width: 400px;
     height: 300px;
@@ -186,7 +185,7 @@ nav {
     left: 40px;
 }
 
-.bread img{
+.bread img {
     position: relative; 
     width: 400px;
     height: 400px;
@@ -196,12 +195,11 @@ nav {
     border-radius: 50%;
 }
 
-
 .kata-kata h1 {
     color: rgb(255, 0, 0);
     display: flex;
     align-items: center;
-    justify-content:right;
+    justify-content: right;
     padding: 10px;
     gap: 0;
     font-size: 50px;
@@ -212,10 +210,8 @@ nav {
     font-family: "Cinzel Decorative", serif;
 }
 
-
-/* =================    info ================= */
-
-.informasi{
+/* ================= INFO ================= */
+.informasi {
     background: wheat;
     padding: 10px;
     width: 100%;
@@ -239,7 +235,7 @@ nav {
     position: relative;
 }
 
-.informasi button:hover{
+.informasi button:hover {
     background: black;
     transform: scale(1.05);
     transition: 0.3s;
@@ -264,17 +260,17 @@ nav {
     left: 375px;
 }
 
-.kopi-atas{
+.kopi-atas {
     position: absolute;
     right: 0;
     top: 120px;
 }
 
-.kopi-atas img{
+.kopi-atas img {
     width: 500px;
 }
 
-/* ================= menu ================= */
+/* ================= MENU ================= */
 .menu {
     background: white;
     width: 100%;
@@ -311,7 +307,7 @@ nav {
     color: rgb(202, 183, 100);
 }
 
-.menu button{
+.menu button {
     display: block;
     position: relative;
     margin: 40px auto;
@@ -328,8 +324,7 @@ nav {
     height: 40px;
 }
 
-
-
+/* ================= MORE ================= */
 .more {
     background: gray;
     position: relative;
@@ -337,7 +332,7 @@ nav {
     height: 7cm;
 }
 
-.sosmed{
+.sosmed {
     position: relative;
     top: 200px;
     display: flex;
@@ -349,7 +344,7 @@ nav {
     cursor: pointer;
 }
 
-.sosmed i:hover{
+.sosmed i:hover {
     transform: scale(1.2);
     transition: 0.3s;
     color: brown;
